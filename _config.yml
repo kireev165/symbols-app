@@ -33,10 +33,15 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Search
+    description                           : Search symbols by name, unicode scalars or keywords.
+    fontawesome_icon_name                 : search
+  - title                                 : Export text
+    description                           : Export name or symbol as text.
+    fontawesome_icon_name                 : share
+  - title                                 : Free
+    description                           : Price equals zero.
+    fontawesome_icon_name                 : coins
 
 
 # Theme Settings
